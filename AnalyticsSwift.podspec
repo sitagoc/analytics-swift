@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
 
   spec.license          =  { :type => 'MIT' }
 
-  spec.homepage         = 'https://github.com/segmentio/analytics-swift'
+  spec.homepage         = 'https://github.com/sitagoc/analytics-swift'
   spec.authors          = { 'Segment' => 'friends@segment.com' }
   spec.summary          = 'The hassle-free way to add analytics to your Swift app.'
 
